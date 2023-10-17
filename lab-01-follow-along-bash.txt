@@ -47,13 +47,13 @@ Question 16: Delete the "backup" directory and its contents.
 rm backup then Enter.
 
 Question 17: Search for all files in your home directory that contain the word "important."
-ls -a important
+ls -a important.
 
 Question 18: Display the 5 lines of the "monthly_report.txt" file.
 cat monthly_report.txt then Enter.
 
 Question 19: Count the number of files and directories in your home directory.
-Two.
+Five.
 
 Question 20: Logout of your current terminal session.
 Close terminal then return back to profile.
